@@ -31,17 +31,17 @@ Thanks to myself and all contributors to whatsapp clone project and you, the wha
 7. and many more
 
 # how to use the app
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/register.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/register.png)
 1. first you must register at register page or you can use default user 
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/login.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/login.png)
 2. after you success login you will get some token to access dashboard,contacts,chat and logout page
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/token.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/token.png)
 3. don't forget to add a token on the already mentioned page. An example can be seen in the image above.
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/dashboard.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/dashboard.png)
 4. This page is used to display all the conversations the user has had.
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/chat.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/chat.png)
 5. This page is used to start the conversations with the other user.
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/contacts.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/contacts.png)
 6. This page is used to display all contacts in this application.
-![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/task/documentation/logout.png)
+![alt text](https://github.com/calvinnur/WhatsappClone/blob/master/documentation/logout.png)
 7. the last page is the logout page this page is used to delete the existing tokens.
